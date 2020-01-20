@@ -23,7 +23,8 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
+[Bb]in/*.dll
+[Bb]in/*.xml
 [Oo]bj/
 [Ll]og/
 
