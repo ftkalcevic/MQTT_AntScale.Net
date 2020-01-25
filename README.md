@@ -33,3 +33,4 @@ The json data is...
 }
 ```
 
+http://www.franksworkshop.com.au/wordpress/2020/01/25/ant-weight-scale-mqtt-publisher/
